@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "postId": 1, "caption": "Post Caption 1" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png", },
+    { "postId": 2, "caption": "Post Caption 2" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png", },
+    { "postId": 3, "caption": "Post Caption 3" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/cat.png", },
+    { "postId": 4, "caption": "Post Caption 4" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png", },
+    { "postId": 5, "caption": "Post Caption 5" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png", },
+    { "postId": 6, "caption": "Post Caption 6" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/boat.png", },
+    { "postId": 7, "caption": "Post Caption 7" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png", },
+    { "postId": 8, "caption": "Post Caption 8" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png", },
+    { "postId": 9, "caption": "Post Caption 9" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/pool.png", },
+    { "postId": 10, "caption": "Post Caption 10" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png", },
+    { "postId": 11, "caption": "Post Caption 11" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png", },
+    { "postId": 12, "caption": "Post Caption 12" , "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/zelda.png", }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
