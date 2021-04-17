@@ -11,7 +11,7 @@
     { "id": 9, "caption": "Post Caption 9", "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/pool.png", "likes": 548 },
     { "id": 10, "caption": "Post Caption 10", "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png", "likes": 65 },
     { "id": 11, "caption": "Post Caption 11", "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png", "likes": 897 },
-    { "id": 12, "caption": "Post Caption 12", "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/zelda.png", "likes": 1 }
+    { "id": 12, "caption": "Post Caption 12", "postImageURL": "https://homepages.cae.wisc.edu/~ece533/images/zelda.png", "likes": 10 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
